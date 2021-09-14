@@ -13,3 +13,5 @@ npm install
 npm start
 ```
 
+Please do also check the apk
+
